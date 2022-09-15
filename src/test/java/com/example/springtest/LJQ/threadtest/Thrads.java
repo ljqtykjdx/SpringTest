@@ -1,4 +1,4 @@
-package com.example.springtest.threadtest;
+package com.example.springtest.LJQ.threadtest;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
