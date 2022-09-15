@@ -9,8 +9,12 @@ import org.springframework.test.context.ContextConfiguration;
 class SpringTestApplicationTests {
 
     @Test
-    void contextLoads() {
+    void TimeConversionTest() {
         TimeConversion.timeConversion();
     }
 
+    @Test
+    void contestLoads(){
+
+    }
 }
